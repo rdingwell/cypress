@@ -10,10 +10,10 @@ gem 'rake'
 
 
 gem 'quality-measure-engine', '~> 2.4.0'
-#gem 'health-data-standards',:git => 'https://github.com/projectcypress/health-data-standards.git', :branch => 'develop'
+gem 'health-data-standards',:git => 'https://github.com/projectcypress/health-data-standards.git', :branch => '3.1.2'
 
 
-gem 'health-data-standards', '~> 3.1.1'
+#gem 'health-data-standards', '~> 3.1.2'
 
 
 #gem 'test-patient-generator', :git => 'https://github.com/pophealth/test-patient-generator.git', :branch => 'develop'
